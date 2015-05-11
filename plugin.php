@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Woocommerce Free Shipping Notification
-Plugin URI: https://github.com/sygency/woocommerce-free-shipping-remaining-cost
+Plugin URI: https://github.com/sygency/woocommerce-free-shipping-notification
 Description: This plugin shows how much money user should spend in order to get free shipping if available.
 Version: 1.1
 Author: Synergy Technologies
