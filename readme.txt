@@ -3,8 +3,8 @@
 Contributors: aivaraszelba
 Tags: woocommerce, amount, cart, checkout, ecommerce, free shipping, free shipping notification, left, native, notification, remaining, shipping, widget
 Requires at least: 3.8
-Tested up to: 4.2.2
-Stable tag: 1.1
+Tested up to: 4.4.2 Wordpress and 2.5.5 WooCommerce
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,6 +38,15 @@ Yes, plugin already do this.
 
 == Changelog ==
 
+= 1.2 =
+
+== Upgrade Notice ==
+
+- Fixed bug, so now free shipping notice going to show current shop currency.
+- Added Price round to two decimals.
+
 = 1.1 =
+
+== Upgrade Notice ==
 
 Initial Release

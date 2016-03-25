@@ -4,15 +4,23 @@ Contributors: AivarasZelba
 
 Requires at least: 3.7 Wordpress and 2.0 WooCommerce
 
-Tested up to: 4.2.2 Wordpress and 2.3 WooCommerce
+Tested up to: 4.4.2 Wordpress and 2.5.5 WooCommerce
 
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+== Changelog ==
 
-=== Change Log ===
+= 1.2 =
 
-= 1.0 =
+== Upgrade Notice ==
 
-=Initial Release
+- Fixed bug, so now free shipping notice going to show current shop currency.
+- Added Price round to two decimals.
+
+= 1.1 =
+
+== Upgrade Notice ==
+
+Initial Release
